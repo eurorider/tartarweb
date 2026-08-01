@@ -1,0 +1,13 @@
+Všechny obrázky jsou ve složce images, odkud se načítají. Stačí do img path dát /images/nazevobrazku.jpg (ideálně to mít v jednotném formátu)
+
+- Javascript oddělán (byl zbytečný)
+- Mobilní zobrazení by mělo fungovat bez potíží
+- Funkce vráceny do HTML (kde patří)
+- Optimalizace styles
+- Plná podpora mobilního zobrazení (webkit, firefox, chromium i brave verze chromia)
+
+- Dynamický copyright podle data systému :)
+- Optimalizované načítání obrázků
+
+Stačí drag n dropnout do hostingu a jedeš
+
